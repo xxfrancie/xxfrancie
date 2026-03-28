@@ -12,20 +12,20 @@
 
 <div align="center">
 
-### 🌸 About Me 关于我 🌸
+### 🌸 About Me 🌸
 
 </div>
 
 ```python
 francie = {
-    "name"      : "徐茹菲 Xu Rufei (Francie)",
-    "education" : ["🇭🇰 CityU HK · Data Science MSc 🎓",
-                   "🇨🇦 University of Toronto · Stats & Econ BSc 🍁"],
-    "skills"    : ["SQL 🗄️", "Python 🐍", "Power BI 📊",
-                   "Tableau 📈", "R 📉", "AI/LLM 🤖"],
-    "languages" : ["中文 🇨🇳", "English 🇬🇧"],
-    "interests" : ["时尚 👗", "养花 🌷", "动物 🐾", "旅游 ✈️",
-                   "Vibe-coding 💻", "The Sims 4 🏡", "说唱音乐 🎤"]
+    "name"      : "Francie",
+    "education" : ["🇭🇰 CityU HK '27 · Data Science MSc 🎓",
+                   "🇨🇦 University of Toronto '25 · Stats & Econ BSc 🍁"],
+    "skills"    : ["SQL", "Python", "Power BI",
+                   "Tableau", "R", "AI/LLM"],
+    "languages" : ["Mandarin 🇨🇳", "English 🇬🇧"],
+    "interests" : ["Fashion", "Flowers", "Cats", "Travel",
+                   "Vibe-coding", "The Sims4", "Hip Hop Music"]
 }
 ```
 
@@ -33,30 +33,26 @@ francie = {
 
 <div align="center">
 
-### 🛠️ Tech Stack 技术栈
+### Tech Stack
 
 <br/>
 
-**Data & Analytics**
+**Data Visualization & Analysis**
 
 ![SQL](https://img.shields.io/badge/SQL-%23FF85A2?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFB6C1?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23FFD6E7?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23FFADC6?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23FFC8DD?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Visualization & BI**
-
 ![Power BI](https://img.shields.io/badge/Power_BI-%23FFB3C6?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23FF85A2?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFC8DD?style=for-the-badge&logo=python&logoColor=white)
 
-**AI & Tools**
+**AI Tools**
 
 ![Claude](https://img.shields.io/badge/Claude-%23FFADC6?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%23FFB6C1?style=for-the-badge&logo=openai&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FFD6E7?style=for-the-badge&logo=databricks&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23FFC8DD?style=for-the-badge&logo=flask&logoColor=white)
 
 </div>
 

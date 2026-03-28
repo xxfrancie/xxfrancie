@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF85A2&center=true&vCenter=true&width=500&lines=Data+Science+%40+CityU+Hong+Kong+🎓;Ex+Dior+Data+Intern+💄;Python+%7C+SQL+%7C+BI+%7C+AI+🤖;Vibe+Coder+%26+AI+Builder+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF85A2&center=true&vCenter=true&width=500&lines=Data+Science+%40+CityU+Hong+Kong+🎓;Python+%7C+SQL+%7C+BI+%7C+AI+🤖;Vibe+Coder+%26+AI+Builder+✨)](https://git.io/typing-svg)
 
 </div>
 

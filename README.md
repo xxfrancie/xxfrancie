@@ -19,15 +19,13 @@
 ```python
 francie = {
     "name"      : "徐茹菲 Xu Rufei (Francie)",
-    "location"  : "🏙️ Shanghai → 🇭🇰 Hong Kong",
-    "education" : ["CityU HK · Data Science MSc 🎓",
-                   "University of Toronto · Stats & Econ BSc 🍁"],
-    "working_at": "Christian Dior 💄 · Customer Data Platform",
+    "education" : ["🇭🇰 CityU HK · Data Science MSc 🎓",
+                   "🇨🇦 University of Toronto · Stats & Econ BSc 🍁"],
     "skills"    : ["SQL 🗄️", "Python 🐍", "Power BI 📊",
                    "Tableau 📈", "R 📉", "AI/LLM 🤖"],
-    "languages" : ["中文 🇨🇳", "English 🇬🇧 (IELTS 7.5)"],
-    "interests" : ["Data Analytics", "AI Agents", "Vibe Coding 💻"],
-    "fun_fact"  : "I built my own AI assistant website with RAG 🌟"
+    "languages" : ["中文 🇨🇳", "English 🇬🇧"],
+    "interests" : ["时尚 👗", "养花 🌷", "动物 🐾", "旅游 ✈️",
+                   "Vibe-coding 💻", "The Sims 4 🏡", "说唱音乐 🎤"]
 }
 ```
 
@@ -65,41 +63,6 @@ francie = {
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxfrancie&show_icons=true&theme=default&bg_color=fff0f5&title_color=ff69b4&text_color=c77dbd&icon_color=ff85a2&border_color=ffb6c1&border_radius=15&hide_border=false" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxfrancie&layout=compact&bg_color=fff0f5&title_color=ff69b4&text_color=c77dbd&border_color=ffb6c1&border_radius=15&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xxfrancie&background=fff0f5&ring=ff85a2&fire=ff69b4&currStreakLabel=c77dbd&sideLabels=c77dbd&currStreakNum=ff85a2&sideNums=ff69b4&dates=ffadc6&border=ffb6c1&border_radius=15" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Featured Project
-
-[![FrancieLand](https://github-readme-stats.vercel.app/api/pin/?username=xxfrancie&repo=FrancieLand&bg_color=fff0f5&title_color=ff69b4&text_color=c77dbd&icon_color=ff85a2&border_color=ffb6c1&border_radius=15)](https://github.com/xxfrancie/FrancieLand)
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-xurufei0123@163.com-%23FF85A2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xurufei0123@163.com)
-[![WeChat](https://img.shields.io/badge/WeChat-xxfrancie-%23FFB6C1?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/xxfrancie)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21&height=100&section=footer&animation=fadeIn" />
 

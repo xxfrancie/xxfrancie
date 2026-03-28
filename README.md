@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21&height=180&section=header&text=Hi%20there!%20I'm%20Francie%20🌸&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20Enthusiast%20%7C%20Dreamer&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,21&height=180&section=header&text=Hi%20there!%20I'm%20Francie%20🌸&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Student%20%7C%20Real%20Baddie%20%7C%20Genius&descAlignY=58&descSize=16" />
 
 <br/>
 
@@ -21,8 +21,8 @@ francie = {
     "name"      : "Francie",
     "education" : ["🇭🇰 CityU HK '27 · Data Science MSc 🎓",
                    "🇨🇦 University of Toronto '25 · Stats & Econ BSc 🍁"],
-    "skills"    : ["SQL", "Python", "Power BI",
-                   "Tableau", "R", "AI/LLM"],
+    "skills"    : ["SQL", "Python", "Power BI", "Tableau", "R", 
+                   "Machine Learning", "AI/LLM"],
     "languages" : ["Mandarin 🇨🇳", "English 🇬🇧"],
     "interests" : ["Fashion", "Flowers", "Cats", "Travel",
                    "Vibe-coding", "The Sims4", "Hip Hop Music"]
